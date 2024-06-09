@@ -1,1 +1,1 @@
-# STAT4188-Final
+# Stock Predictor using Monte Carlo Simulation technique. This took Apple's stock data until April 1st 2020 and this project wll asses a calculated prediction based on the highest price the stock has reached each day.
